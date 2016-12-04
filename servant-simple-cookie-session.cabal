@@ -1,8 +1,8 @@
-name:                servant-server-session
+name:                servant-simple-cookie-session
 version:             0.1.0.0
 synopsis:            Servant session
 description:         Extremely simple cokiee sessions for serrvant apis
-homepage:            https://github.com/vwwv/servant-server-session#readme
+homepage:            https://github.com/vwwv/servant-simple-cookie-session#readme
 license:             BSD3
 author:              Alejandro Durán Pallarés
 maintainer:          vwwv@correo.ugr.es
@@ -91,4 +91,4 @@ library
 
 source-repository head
   type:     git
-  location: https://github.com/vwwv/servant-server-session
+  location: https://github.com/vwwv/servant-simple-cookie-session
